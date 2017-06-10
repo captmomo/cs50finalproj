@@ -22306,7 +22306,7 @@
     </StyleMap>
   <Style id="IconStyle00">
     <IconStyle>
-      <Icon><href>Layer0_Symbol_172eadf0.png</href></Icon>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
       <scale>0.250000</scale>
     </IconStyle>
     <LabelStyle>
