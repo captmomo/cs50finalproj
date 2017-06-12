@@ -22306,7 +22306,7 @@
     </StyleMap>
   <Style id="IconStyle00">
     <IconStyle>
-      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon>
       <scale>0.250000</scale>
     </IconStyle>
     <LabelStyle>
