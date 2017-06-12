@@ -424,8 +424,8 @@
     </Folder>
     <Style id="IconStyle00">
     <IconStyle>
-      <Icon><i class="material-icons" style="font-size:36px">restaurant</i></Icon>
-      <scale>0.250000</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon>
+      <scale>0.5</scale>
     </IconStyle>
     <LabelStyle>
       <color>00000000</color>
