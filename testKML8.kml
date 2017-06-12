@@ -19,20 +19,6 @@
         <address>Blk 6, Jalan Bukit Merah, Singapore 150006</address>
         <description><![CDATA[<img src="http://www.bca.gov.sg/data/imgCont/building/ABC%20Brickworks%20Food%20Centre.jpg" height="200" width="auto" /><br><br>Name: ABC Brickworks Food Centre<br>What is Good/Must Try: Roast Duck Rice, Mango Ice, Fried Hokkien Noodle<br>Remark: Best dessert, and very delicious fried hokkien noodle]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="Name">
-            <value>ABC Brickworks Food Centre</value>
-          </Data>
-          <Data name="What is Good/Must Try">
-            <value>Roast Duck Rice, Mango Ice, Fried Hokkien Noodle</value>
-          </Data>
-          <Data name="Remark">
-            <value>Best dessert, and very delicious fried hokkien noodle</value>
-          </Data>
-          <Data name="gx_media_links">
-            <value>http://www.bca.gov.sg/data/imgCont/building/ABC%20Brickworks%20Food%20Centre.jpg</value>
-          </Data>
-        </ExtendedData>
 	<Point>
         <altitudeMode>clampToGround</altitudeMode>
         <coordinates> 103.8081279993177,1.286952751990693,0</coordinates>
@@ -67,20 +53,6 @@
         <address>2 Changi Village Rd, Singapore 500002</address>
         <description><![CDATA[<img src="http://www.bca.gov.sg/data/imgCont/building/Changi%20Village%20MArket%20&%20FC.JPG" height="200" width="auto" /><br><br>Name: Changi Village Market & Food Centre<br>What is Good/Must Try: Nasi Lemak, Wanton Noodle, BBQ Stingray<br>Remark: ]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="Name">
-            <value><![CDATA[Changi Village Market & Food Centre]]></value>
-          </Data>
-          <Data name="What is Good/Must Try">
-            <value>Nasi Lemak, Wanton Noodle, BBQ Stingray</value>
-          </Data>
-          <Data name="Remark">
-            <value/>
-          </Data>
-          <Data name="gx_media_links">
-            <value>http://www.bca.gov.sg/data/imgCont/building/Changi%20Village%20MArket%20&%20FC.JPG</value>
-          </Data>
-        </ExtendedData>
 	<Point>
         <altitudeMode>clampToGround</altitudeMode>
         <coordinates> 103.9882457491028,1.389151720649878,0</coordinates>
