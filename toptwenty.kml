@@ -3,6 +3,7 @@
   <Document>
     <name>Top 20 Food Centres in Singapore</name>
     <description>Find delicious and value food in these Food Centres in Singapore that the locals will visit. No touristy food centre....</description>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <Style id="icon-503-DB4436-labelson">
       <IconStyle>
         <color>ff3644db</color>
@@ -423,7 +424,7 @@
     </Folder>
     <Style id="IconStyle00">
     <IconStyle>
-      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      <Icon><i class="material-icons" style="font-size:36px">restaurant</i></Icon>
       <scale>0.250000</scale>
     </IconStyle>
     <LabelStyle>
