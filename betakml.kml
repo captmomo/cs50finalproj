@@ -8,7 +8,7 @@
         <color>ff3644db</color>
         <scale>0.5</scale>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
