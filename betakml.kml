@@ -3,7 +3,7 @@
   <Document>
     <name>Top 20 Food Centres in Singapore</name>
     <description>Find delicious and value food in these Food Centres in Singapore that the locals will visit. No touristy food centre....</description>
-    <Style id="icon-503-DB4436-labelson">
+    <Style id="icon-style">
       <IconStyle>
         <color>ff3644db</color>
         <scale>1.1</scale>
@@ -414,6 +414,11 @@
             <value>https://lh3.googleusercontent.com/proxy/tKBGpCl8l2qIT4yItr6MBp1eY5S2HZtGb-6_UXRUwcTAq6yIfQpVMonpIubkS6hapZVLzrTuTDn6otbHfxytRtDqxZTKvou-IQIPrTy3FfBykOr7Ldt3BQ6yOU8yr2Zma2htyp5KKb2Kp_E</value>
           </Data>
         </ExtendedData>
+        <styleUrl>#icon-style</styleUrl>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8540680628599,1.323421751438994,0</coordinates>
+        </Point>
       </Placemark>
     </Folder>
   </Document>
