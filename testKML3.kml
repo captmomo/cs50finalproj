@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Top 20 Food Centres in Singapore</name>
+    <description>Find delicious and value food in these Food Centres in Singapore that the locals will visit. No touristy food centre....</description>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>List of Top Food Centres in Singapore.csv</name>
+      <Placemark>
+        <name>Blk 6, Jalan Bukit Merah, Singapore 150006 </name>
+        <address>Blk 6, Jalan Bukit Merah, Singapore 150006</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/IFBnu0KPB4PgHFVIlGYiZREJx8sGbr3VTo4VqrcArK-gNL0U6fN0zq8b1HTC11kI6H6wNpOEvEWuto1fNK23SBn3j5zYUwQSuwINXePLyDxcpCxyqe0BfFbxrhof_S4o2T1Jfs-bxGbmBXhu1GmEXX98VQ" height="200" width="auto" /><br><br>Name: ABC Brickworks Food Centre<br>What is Good/Must Try: Roast Duck Rice, Mango Ice, Fried Hokkien Noodle<br>Remark: Best dessert, and very delicious fried hokkien noodle]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>ABC Brickworks Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Roast Duck Rice, Mango Ice, Fried Hokkien Noodle</value>
+          </Data>
+          <Data name="Remark">
+            <value>Best dessert, and very delicious fried hokkien noodle</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/IFBnu0KPB4PgHFVIlGYiZREJx8sGbr3VTo4VqrcArK-gNL0U6fN0zq8b1HTC11kI6H6wNpOEvEWuto1fNK23SBn3j5zYUwQSuwINXePLyDxcpCxyqe0BfFbxrhof_S4o2T1Jfs-bxGbmBXhu1GmEXX98VQ</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>2, Adam Road, Singapore 289876 </name>
+        <address>2, Adam Road, Singapore 289876</address>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/WXSOcFlMO1MSM4oChmz5WzhrutDXrWY4TXGGxQirO3OojvlerLfbzBbfIUhjjr6mahkoF7OGy9soVisU9Cfc-aCn2dODsFgygW7K0GEgVqYMACx1-IjhfLPxe6a4f7_acwbhI8e7yZ74LA" height="200" width="auto" /><br><br>Name: Adam Road Food Centre<br>What is Good/Must Try: Mee Rebus, Nasi Lemak, Indian Rojak<br>Remark: One of the best mee rebus, and Indian rojak]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Adam Road Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Mee Rebus, Nasi Lemak, Indian Rojak</value>
+          </Data>
+          <Data name="Remark">
+            <value>One of the best mee rebus, and Indian rojak</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/WXSOcFlMO1MSM4oChmz5WzhrutDXrWY4TXGGxQirO3OojvlerLfbzBbfIUhjjr6mahkoF7OGy9soVisU9Cfc-aCn2dODsFgygW7K0GEgVqYMACx1-IjhfLPxe6a4f7_acwbhI8e7yZ74LA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>2 Changi Village Rd, Singapore 500002</name>
+        <address>2 Changi Village Rd, Singapore 500002</address>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/L0ORsbxsBm1qzQgsEIsmbfkVi9RNSRHYDcekuIEzjpZtyIxY3zd_tGwB8q9fy0xsEngZTA88M_-NbsBYMg9T3c_MQ653Cr6aHNGRrx8kgw" height="200" width="auto" /><br><br>Name: Changi Village Market & Food Centre<br>What is Good/Must Try: Nasi Lemak, Wanton Noodle, BBQ Stingray<br>Remark: ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Changi Village Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Nasi Lemak, Wanton Noodle, BBQ Stingray</value>
+          </Data>
+          <Data name="Remark">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/L0ORsbxsBm1qzQgsEIsmbfkVi9RNSRHYDcekuIEzjpZtyIxY3zd_tGwB8q9fy0xsEngZTA88M_-NbsBYMg9T3c_MQ653Cr6aHNGRrx8kgw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>335 Smith Street, Singapore 050335</name>
+        <address>335 Smith Street, Singapore 050335</address>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/QyctWc7LognU9FlIATSxfioC566rRkps_8VIE_ZslqALVbBT-8JM7Uu--JU5QO5tYNKtyOhzHNr0DBmUuCbFA1fgE6IAEfl0wEJ1pj9IpTTe5lDFDL4" height="200" width="auto" /><br><br>Name: Chinatown Complex Market<br>What is Good/Must Try: Soy Sauce Chicken Rice, Yam cake, Minced Pork Noodle<br>Remark: Best soy sauce chicken rice and very reasonable price - look for queue. Note**: Chinatown Market is in a complex on the 2nd level, not the one on the street catered for the tourists.]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Chinatown Complex Market</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Soy Sauce Chicken Rice, Yam cake, Minced Pork Noodle</value>
+          </Data>
+          <Data name="Remark">
+            <value>Best soy sauce chicken rice and very reasonable price - look for queue. Note**: Chinatown Market is in a complex on the 2nd level, not the one on the street catered for the tourists.</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/QyctWc7LognU9FlIATSxfioC566rRkps_8VIE_ZslqALVbBT-8JM7Uu--JU5QO5tYNKtyOhzHNr0DBmUuCbFA1fgE6IAEfl0wEJ1pj9IpTTe5lDFDL4</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>20, Kensington Park Road, Singapore 557269 </name>
+        <address>20, Kensington Park Road, Singapore 557269</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/P0Kw4dYK4EoRYxgW-VQ_clHPSbREu-GuT_DI4zFGSYmBdEd5PMFXUxuWsUug08_yVyGWf1xjT4uocrdGYCh7KKs8fkpo-tkcS_aT75YtiJ8SRg" height="200" width="auto" /><br><br>Name: Chomp Chomp Food Centre<br>What is Good/Must Try: BBQ Stingray, Fried Carrot Cake, BBQ Chicken Wings<br>Remark: Some say serve the best BBQ sambal stingray, pricing here slightly on a high side]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Chomp Chomp Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>BBQ Stingray, Fried Carrot Cake, BBQ Chicken Wings</value>
+          </Data>
+          <Data name="Remark">
+            <value>Some say serve the best BBQ sambal stingray, pricing here slightly on a high side</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/P0Kw4dYK4EoRYxgW-VQ_clHPSbREu-GuT_DI4zFGSYmBdEd5PMFXUxuWsUug08_yVyGWf1xjT4uocrdGYCh7KKs8fkpo-tkcS_aT75YtiJ8SRg</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>1220 East Coast Parkway, Singapore 440000</name>
+        <address>1220 East Coast Parkway, Singapore 440000</address>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/g7A_dQRRnn63etf12lowW4I95LjJ_SnLIP9DoI0N1RgGFdcdtdQHmaFFj3cj3U1GnKDWmHpGJLbudemwQb7iF5rb0Unzjj4Qx3bAHZuGLkX8uvovJF25H6LoVrDdWJBGHqC7LOo" height="200" width="auto" /><br><br>Name: East Coast Lagoon Food Village<br>What is Good/Must Try: Satay, Wanton Noodle, Braised Duck Rice, Satay Bee Hoon, BBQ Chicken Wings<br>Remark: Serve the best Malay satay. Very delicious wanton noodle and BBQ chicken wings. Look for queue]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>East Coast Lagoon Food Village</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Satay, Wanton Noodle, Braised Duck Rice, Satay Bee Hoon, BBQ Chicken Wings</value>
+          </Data>
+          <Data name="Remark">
+            <value>Serve the best Malay satay. Very delicious wanton noodle and BBQ chicken wings. Look for queue</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/g7A_dQRRnn63etf12lowW4I95LjJ_SnLIP9DoI0N1RgGFdcdtdQHmaFFj3cj3U1GnKDWmHpGJLbudemwQb7iF5rb0Unzjj4Qx3bAHZuGLkX8uvovJF25H6LoVrDdWJBGHqC7LOo</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>85 Bedok North Street 4, Singapore 460085</name>
+        <address>85 Bedok North Street 4, Singapore 460085</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/iVVakupFZ9Us2uLTHYUWUjdEo_GRgPBLeWXJ8qLqypXInHCkJ137svqmOE12bQEWNDepJb75v5SAfvc50sBjbeNR8wqBw3jchaC0fnvqOllklnszw1okfjj7" height="200" width="auto" /><br><br>Name: Fengshan Market & Food Centre<br>What is Good/Must Try: Fried Oyster Egg, Satay Bee Hoon, BBQ Chicken Wings<br>Remark: Best fried oyster egg, and satay bee hoon]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Fengshan Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Fried Oyster Egg, Satay Bee Hoon, BBQ Chicken Wings</value>
+          </Data>
+          <Data name="Remark">
+            <value>Best fried oyster egg, and satay bee hoon</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/iVVakupFZ9Us2uLTHYUWUjdEo_GRgPBLeWXJ8qLqypXInHCkJ137svqmOE12bQEWNDepJb75v5SAfvc50sBjbeNR8wqBw3jchaC0fnvqOllklnszw1okfjj7</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>505, Beach Road, Singapore 199583 </name>
+        <address>505, Beach Road, Singapore 199583</address>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/iV7ksMj0R5lpu8bKY94vvrTI_VcIjGJ6AZecXV-YUmUIvsNySA6Btxn_kTf0lRJDERmTzkWkFaFPTXRPSgFGHL2D4wu_X9Q3RZZgfJOjirIAFOtsmkYWndiDp4q5UMwyNJhY4uMs_Als3w" height="200" width="auto" /><br><br>Name: Golden Mile Food Centre<br>What is Good/Must Try: Tang Yuan, Claypot Rice, Chicken Rice, Indian "Tulang" bone marrow<br>Remark: Best Tang yuan, and variety of Indian food like "tulang" which is braised mutton bone, what can you do with the bone?? Try them to find out.....]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Golden Mile Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value><![CDATA[Tang Yuan, Claypot Rice, Chicken Rice, Indian "Tulang" bone marrow]]></value>
+          </Data>
+          <Data name="Remark">
+            <value><![CDATA[Best Tang yuan, and variety of Indian food like "tulang" which is braised mutton bone, what can you do with the bone?? Try them to find out.....]]></value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/iV7ksMj0R5lpu8bKY94vvrTI_VcIjGJ6AZecXV-YUmUIvsNySA6Btxn_kTf0lRJDERmTzkWkFaFPTXRPSgFGHL2D4wu_X9Q3RZZgfJOjirIAFOtsmkYWndiDp4q5UMwyNJhY4uMs_Als3w</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Geylang Serai, Singapore 402001 </name>
+        <address>Geylang Serai, Singapore 402001</address>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ElfFUdKEAAekXa2bkrNUCC0boq7GIICh0aLgFW_9aeMf_0_PhcSRYg4qOxs2eAGx__Qz6PBMmYF5S5zgYDVVydWN3EK2HN8_4l909fLc_z9sUTs8BGZBfdVvipuFDzMfnoai_0pDGsv_YIw" height="200" width="auto" /><br><br>Name: Geylang Serai Market & Food Centre<br>What is Good/Must Try: Nasi Briyani, Nasi Padang, Lontong<br>Remark: This is a traditional "Malay Village" food centre. There are many delicious Malay food to be found here. Be sure to try the Nonya Kuehs... ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Geylang Serai Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Nasi Briyani, Nasi Padang, Lontong</value>
+          </Data>
+          <Data name="Remark">
+            <value><![CDATA[This is a traditional "Malay Village" food centre. There are many delicious Malay food to be found here. Be sure to try the Nonya Kuehs... ]]></value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/ElfFUdKEAAekXa2bkrNUCC0boq7GIICh0aLgFW_9aeMf_0_PhcSRYg4qOxs2eAGx__Qz6PBMmYF5S5zgYDVVydWN3EK2HN8_4l909fLc_z9sUTs8BGZBfdVvipuFDzMfnoai_0pDGsv_YIw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blk 531A, Upper Cross Street, Singapore 051531 </name>
+        <address>Blk 531A, Upper Cross Street, Singapore 051531</address>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/qVGbYBGSho_1PmQQm9NSvF6rPbXGerQlEAPzWcPAWFdybYUhWGdnSED1ROJtH9SGl8H52N8FZ_A28r8XOu4_cMKlp2_r_z7qxq4Hqhu7877v6S1dPA" height="200" width="auto" /><br><br>Name: Hong Lim Food Centre<br>What is Good/Must Try: Fried Kway Teow, Curry Noodle, Fish Ball Noodle<br>Remark: One of the best fried kway teow, be prepare to queue. Avoid lunchtime crowd. It is also very near Chinatown.]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Hong Lim Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Fried Kway Teow, Curry Noodle, Fish Ball Noodle</value>
+          </Data>
+          <Data name="Remark">
+            <value>One of the best fried kway teow, be prepare to queue. Avoid lunchtime crowd. It is also very near Chinatown.</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/qVGbYBGSho_1PmQQm9NSvF6rPbXGerQlEAPzWcPAWFdybYUhWGdnSED1ROJtH9SGl8H52N8FZ_A28r8XOu4_cMKlp2_r_z7qxq4Hqhu7877v6S1dPA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>505 Jurong West Street 52, Singapore 640505</name>
+        <address>505 Jurong West Street 52, Singapore 640505</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ID8P5RQNB6eeI7zwsWSRSIROSDLEtwqEpMlUv_VQi3uFhOQq1eggk2ILiYgAojcxNNR5ibeeLb0Kg4joXKPeZhm2rDRxM1qNYbH3hZupZghcmnIIdm9W2kd2Ar6NIoJbfzZ3Put75ZF2hPqkJCchUs4TcPZHR_VhlRYyMu2rejoU3ZVxvlQHf0v6meQH2bpVQp365js" height="200" width="auto" /><br><br>Name: Jurong West Block 505 Food Centre<br>What is Good/Must Try: Wanton Noodle, Yam Cake, Fishball Noodle<br>Remark: For those living in the West area. This is one of the food centre where you will find good and value food. It is quite crowded. After lunch you may wish to drop by IMM, JEM shopping malls or the Science Centre in the Jurong lake precinct. ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Jurong West Block 505 Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Wanton Noodle, Yam Cake, Fishball Noodle</value>
+          </Data>
+          <Data name="Remark">
+            <value>For those living in the West area. This is one of the food centre where you will find good and value food. It is quite crowded. After lunch you may wish to drop by IMM, JEM shopping malls or the Science Centre in the Jurong lake precinct. </value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/ID8P5RQNB6eeI7zwsWSRSIROSDLEtwqEpMlUv_VQi3uFhOQq1eggk2ILiYgAojcxNNR5ibeeLb0Kg4joXKPeZhm2rDRxM1qNYbH3hZupZghcmnIIdm9W2kd2Ar6NIoJbfzZ3Put75ZF2hPqkJCchUs4TcPZHR_VhlRYyMu2rejoU3ZVxvlQHf0v6meQH2bpVQp365js</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>1, Kadayanallur Street, Singapore 069184 </name>
+        <address>1, Kadayanallur Street, Singapore 069184</address>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/WdX-7evpVbKrWZB99LVcwoZ0my2hIBtSzV5Ym8LI1sVGZssjn7vl3gTWZ76S5L3ttmwYDZEb8pkIAF_gqm3C-bnyGfoYFjtL_KQXNEm17Dy2uYdy8xQDLUS40m8d9uLDooq95BC6IMhAJBJ4TdXR" height="200" width="auto" /><br><br>Name: Maxwell Food Centre<br>What is Good/Must Try: Chicken Rice, Onde Onde and the Nonya Kuehs.<br>Remark: The BEST chicken rice in Singapore. Also one of the BEST onde onde, dadar the Nonya kuehs. The kuehs will sell out in about 2-3 hours time. Suggest to take away. Do avoid the lunch time crowd though. This food centre is one of the many good ones located in the Chinatown vicinity. Do visit the Golden Temple just across the street... ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Maxwell Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Chicken Rice, Onde Onde and the Nonya Kuehs.</value>
+          </Data>
+          <Data name="Remark">
+            <value>The BEST chicken rice in Singapore. Also one of the BEST onde onde, dadar the Nonya kuehs. The kuehs will sell out in about 2-3 hours time. Suggest to take away. Do avoid the lunch time crowd though. This food centre is one of the many good ones located in the Chinatown vicinity. Do visit the Golden Temple just across the street... </value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/WdX-7evpVbKrWZB99LVcwoZ0my2hIBtSzV5Ym8LI1sVGZssjn7vl3gTWZ76S5L3ttmwYDZEb8pkIAF_gqm3C-bnyGfoYFjtL_KQXNEm17Dy2uYdy8xQDLUS40m8d9uLDooq95BC6IMhAJBJ4TdXR</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>51 Old Airport Rd, Singapore 390051</name>
+        <address>51 Old Airport Rd, Singapore 390051</address>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ZJfRZfEpxVMuN2F4VAA1ZojT_7D52FFj6wnCGKauSLjdmGbQipQuUVHGt26ud4RIVkuSV7ROjrdiLXNYPP52p8xoHcQS6ZziSMvzbUEIykuOi_NM4FjNAqlY2uLwz5xsN3uGawiY1FO1CuTn2bshiLuirjoS492p6ufoUZN3" height="200" width="auto" /><br><br>Name: Old Airport Road Food Centre<br>What is Good/Must Try: Lor Mee, Rojak, Western food<br>Remark: Serve one of the best lor mee. Serve very nice nice pork chop. Be prepared to queue sometime for the rojak. Avoid the touristy food centre and come to this one instead. Most of the food here is quite delicious and obviously less pricey..... ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Old Airport Road Food Centre</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Lor Mee, Rojak, Western food</value>
+          </Data>
+          <Data name="Remark">
+            <value>Serve one of the best lor mee. Serve very nice nice pork chop. Be prepared to queue sometime for the rojak. Avoid the touristy food centre and come to this one instead. Most of the food here is quite delicious and obviously less pricey..... </value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/ZJfRZfEpxVMuN2F4VAA1ZojT_7D52FFj6wnCGKauSLjdmGbQipQuUVHGt26ud4RIVkuSV7ROjrdiLXNYPP52p8xoHcQS6ZziSMvzbUEIykuOi_NM4FjNAqlY2uLwz5xsN3uGawiY1FO1CuTn2bshiLuirjoS492p6ufoUZN3</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blk 41A, Cambridge Road, Singapore 211041 </name>
+        <address>Blk 41A, Cambridge Road, Singapore 211041</address>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_CRi_yQXwEywZ_D1ZLM8vpr73dJoz2uD9aJt8eD0IcSDERX0M3s9iBol0pXQJNOi8V5V7F7CNazzDcKavRgVIwn5Tqz2B1kf_ccj_3wBBtEPZGWiBafJVgL12g" height="200" width="auto" /><br><br>Name: Pek Kio Market & Food Centre<br>What is Good/Must Try: Wanton Noodle, Prawn Noodle Soup, Braised Duck Rice<br>Remark: One of the best wanton noodle, and prawn noodle soup. A lesser known food centre with nice food at reasonable price. Very near to Little India a tourist area, and you can still find traditional local food here....]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Pek Kio Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Wanton Noodle, Prawn Noodle Soup, Braised Duck Rice</value>
+          </Data>
+          <Data name="Remark">
+            <value>One of the best wanton noodle, and prawn noodle soup. A lesser known food centre with nice food at reasonable price. Very near to Little India a tourist area, and you can still find traditional local food here....</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/_CRi_yQXwEywZ_D1ZLM8vpr73dJoz2uD9aJt8eD0IcSDERX0M3s9iBol0pXQJNOi8V5V7F7CNazzDcKavRgVIwn5Tqz2B1kf_ccj_3wBBtEPZGWiBafJVgL12g</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>49A, Serangoon Garden Way, Singapore 555945</name>
+        <address>49A, Serangoon Garden Way, Singapore 555945</address>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/n_N2gg3LtzPie_G1j-c4S3XMMWk1X1XPjToYIttH3UpsrjhImy9fPnysPpnH5k4Ar269L4jvq6iKKuC4nAk5DrxI1tjI5fnacC5wcZxjr66q9vx5a6vYPRUj6MPp8CM5bKXx2LCfLtFtW5H0Drr6pz4gUIxAT-e2zufOwQ" height="200" width="auto" /><br><br>Name: Serangoon Garden Market & Food Centre<br>What is Good/Must Try: Minced Pork Noodle, Freshly Baked Breads, Braised Duck Rice, Pig Organ Soup<br>Remark: A little inconvenient to those not driving, as this food centre is away from the main road located in a landed property area. Very popular among the residents in the area and it serves nice, inexpensive traditional food... Open in the day only.  ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Serangoon Garden Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Minced Pork Noodle, Freshly Baked Breads, Braised Duck Rice, Pig Organ Soup</value>
+          </Data>
+          <Data name="Remark">
+            <value>A little inconvenient to those not driving, as this food centre is away from the main road located in a landed property area. Very popular among the residents in the area and it serves nice, inexpensive traditional food... Open in the day only.  </value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/n_N2gg3LtzPie_G1j-c4S3XMMWk1X1XPjToYIttH3UpsrjhImy9fPnysPpnH5k4Ar269L4jvq6iKKuC4nAk5DrxI1tjI5fnacC5wcZxjr66q9vx5a6vYPRUj6MPp8CM5bKXx2LCfLtFtW5H0Drr6pz4gUIxAT-e2zufOwQ</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>137A Tampines Street 11, Singapore 522137</name>
+        <address>137A Tampines Street 11, Singapore 522137</address>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/JIO-jENTqqP6kKgJuRjnX7uovDTy13k1hWRe-ObGNRSMvBZe1YcKLGBg6A8i3uu1yoevKHkzxhsmPiPDUonHDG1XcbSyXYw3YlKR_ER3Guw" height="200" width="auto" /><br><br>Name: Tampines Round Market & Food Centre<br>What is Good/Must Try: Chicken Feet Noodle, Prawn Noodle Soup, Tau Suan, Local Coffee<br>Remark: It is quite boring always eating out in the many restaurants in the East. For those living in the area, you may want to try the food here. Look out for those with queue....]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Tampines Round Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Chicken Feet Noodle, Prawn Noodle Soup, Tau Suan, Local Coffee</value>
+          </Data>
+          <Data name="Remark">
+            <value>It is quite boring always eating out in the many restaurants in the East. For those living in the area, you may want to try the food here. Look out for those with queue....</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/JIO-jENTqqP6kKgJuRjnX7uovDTy13k1hWRe-ObGNRSMvBZe1YcKLGBg6A8i3uu1yoevKHkzxhsmPiPDUonHDG1XcbSyXYw3YlKR_ER3Guw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blk 665, Buffalo Road, Singapore 210665 </name>
+        <address>Blk 665, Buffalo Road, Singapore 210665</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/UnZG6JVhH__IvZiGcosGGMV5jvfvkm24V1fCc8IFZW4GL7qGY15MMc2OTb8gVIM5Ctor9ioCyZL7AT7ILEWD9T0L22hgPu4gRcRcXTMOFy5s3WlKPvpKI7G5Wu7doWPQ1RlPput5CJqugDR6pmM5GLD9R6v6mdwZ95Aigqcq9hrhM6-v" height="200" width="auto" /><br><br>Name: Tekka Market<br>What is Good/Must Try: Nasi Briyani, Prawn Noodle Soup, Indian Rojak<br>Remark: This is situated in Little India. Although in a tourist area, but the Indian food found here is not expensive.  ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Tekka Market</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Nasi Briyani, Prawn Noodle Soup, Indian Rojak</value>
+          </Data>
+          <Data name="Remark">
+            <value>This is situated in Little India. Although in a tourist area, but the Indian food found here is not expensive.  </value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/UnZG6JVhH__IvZiGcosGGMV5jvfvkm24V1fCc8IFZW4GL7qGY15MMc2OTb8gVIM5Ctor9ioCyZL7AT7ILEWD9T0L22hgPu4gRcRcXTMOFy5s3WlKPvpKI7G5Wu7doWPQ1RlPput5CJqugDR6pmM5GLD9R6v6mdwZ95Aigqcq9hrhM6-v</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>210 Lor 8 Toa Payoh, Singapore 310210</name>
+        <address>210 Lor 8 Toa Payoh, Singapore 310210</address>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/2TURjXJLXR1Ooh6nMPIaQpz3wmOt53PYhZ8G4PNQTjnveu25QxBVQUzj02ZMmzxeUAgeo8LsDpuxL5rBo9PMhuZ7LJHN-kPD-KcID8cwE4ubAWzwut8RIHfRu6auLCKU2W0xPb3im47wmlIwr_y4cQlOQHF09A" height="200" width="auto" /><br><br>Name: Toa Payoh Lorong 8 Market & Food Centre<br>What is Good/Must Try: Fish Ball Noodle, Hainanese Beef Noodle Soup, Popieh aka spring roll<br>Remark: This is another local's favorite food centre. Look out for the queue. Quite a few food centre in Toa Payoh area, but this one offers a few quality local food. ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value><![CDATA[Toa Payoh Lorong 8 Market & Food Centre]]></value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Fish Ball Noodle, Hainanese Beef Noodle Soup, Popieh aka spring roll</value>
+          </Data>
+          <Data name="Remark">
+            <value><![CDATA[This is another local's favorite food centre. Look out for the queue. Quite a few food centre in Toa Payoh area, but this one offers a few quality local food. ]]></value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/2TURjXJLXR1Ooh6nMPIaQpz3wmOt53PYhZ8G4PNQTjnveu25QxBVQUzj02ZMmzxeUAgeo8LsDpuxL5rBo9PMhuZ7LJHN-kPD-KcID8cwE4ubAWzwut8RIHfRu6auLCKU2W0xPb3im47wmlIwr_y4cQlOQHF09A</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>30, Seng Poh Road, Singapore 168898 </name>
+        <address>30, Seng Poh Road, Singapore 168898</address>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/GnlPQ1ZRtwiGhG_HdOFsDcNsTRpxlYBrHlAGxXYcHxLvU0_nHDUd5TZTT12Mr6CagIbS61q5nXl-HX_aJrN5Uc5DoDr3F-V4mj62ulPzEo1CKgWZfiHUViaQj1TpqbAOONNpDVkCMrKAeemc51OVOjfH96HGY4c7aYZ2Fw" height="200" width="auto" /><br><br>Name: Tiong Bahru Market<br>What is Good/Must Try: Chwee Kway, Fried Carrot Cake, Char Siew Rice<br>Remark: One of the oldest and popular food centre in Singapore. Why? It is because you can find the oldest HDB estate in Singapore here. The favorite food is the chwee kueh. Also try the fried carrot cake and the char siew rice..... After that you can have a nice coffee at the many cafe operating in the area... ]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Tiong Bahru Market</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Chwee Kway, Fried Carrot Cake, Char Siew Rice</value>
+          </Data>
+          <Data name="Remark">
+            <value>One of the oldest and popular food centre in Singapore. Why? It is because you can find the oldest HDB estate in Singapore here. The favorite food is the chwee kueh. Also try the fried carrot cake and the char siew rice..... After that you can have a nice coffee at the many cafe operating in the area... </value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/GnlPQ1ZRtwiGhG_HdOFsDcNsTRpxlYBrHlAGxXYcHxLvU0_nHDUd5TZTT12Mr6CagIbS61q5nXl-HX_aJrN5Uc5DoDr3F-V4mj62ulPzEo1CKgWZfiHUViaQj1TpqbAOONNpDVkCMrKAeemc51OVOjfH96HGY4c7aYZ2Fw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>90 Whampoa Drive, Singapore 320090</name>
+        <address>90 Whampoa Drive, Singapore 320090</address>
+        <description><![CDATA[<img src="https://http://projectbalestier.weebly.com/uploads/7/7/5/6/7756157/5842066.jpg?150" height="150" width="auto" /><br><br>Name: Whampoa Market<br>What is Good/Must Try: Chicken Rice, Prawn Noodle Soup, Fish Porridge, Chinese Satay<br>Remark: A traditional food centre where delicious and inexpensive food is found. Try the mee siam and prawn noodle soup in the morning food centre. The night food centre serve very delicious fish head hot pot, Chinese satay, and chicken rice. Do not fill your stomach with all the delicious food if you are game for durians. The durian stall situated in the main road of Balestier where the Old Temple is, serve the best durians in town. Tip buy the from stall that display the price. You are less likely to be rip off here....]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Name">
+            <value>Whampoa Market</value>
+          </Data>
+          <Data name="What is Good/Must Try">
+            <value>Chicken Rice, Prawn Noodle Soup, Fish Porridge, Chinese Satay</value>
+          </Data>
+          <Data name="Remark">
+            <value>A traditional food centre where delicious and inexpensive food is found. Try the mee siam and prawn noodle soup in the morning food centre. The night food centre serve very delicious fish head hot pot, Chinese satay, and chicken rice. Do not fill your stomach with all the delicious food if you are game for durians. The durian stall situated in the main road of Balestier where the Old Temple is, serve the best durians in town. Tip buy the from stall that display the price. You are less likely to be rip off here....</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value>https://http://projectbalestier.weebly.com/uploads/7/7/5/6/7756157/5842066.jpg?150</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8540680628599,1.323421751438994,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
