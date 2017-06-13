@@ -29,20 +29,6 @@
         <address>2, Adam Road, Singapore 289876</address>
         <description><![CDATA[<img src="http://www.bca.gov.sg/data/imgCont/building/Adam%20Food%20Centre.jpeg" height="200" width="auto" /><br><br>Name: Adam Road Food Centre<br>What is Good/Must Try: Mee Rebus, Nasi Lemak, Indian Rojak<br>Remark: One of the best mee rebus, and Indian rojak]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="Name">
-            <value>Adam Road Food Centre</value>
-          </Data>
-          <Data name="What is Good/Must Try">
-            <value>Mee Rebus, Nasi Lemak, Indian Rojak</value>
-          </Data>
-          <Data name="Remark">
-            <value>One of the best mee rebus, and Indian rojak</value>
-          </Data>
-          <Data name="gx_media_links">
-            <value>http://www.bca.gov.sg/data/imgCont/building/Adam%20Food%20Centre.jpeg</value>
-          </Data>
-        </ExtendedData>
 <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <coordinates> 103.8141650103842,1.324134222533905,0</coordinates>
@@ -63,20 +49,6 @@
         <address>335 Smith Street, Singapore 050335</address>
         <description><![CDATA[<img src="http://www.nea.gov.sg/images/default-source/HUP-commemorative-/chinatown-market.jpg" height="200" width="auto" /><br><br>Name: Chinatown Complex Market<br>What is Good/Must Try: Soy Sauce Chicken Rice, Yam cake, Minced Pork Noodle<br>Remark: Best soy sauce chicken rice and very reasonable price - look for queue. Note**: Chinatown Market is in a complex on the 2nd level, not the one on the street catered for the tourists.]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="Name">
-            <value>Chinatown Complex Market</value>
-          </Data>
-          <Data name="What is Good/Must Try">
-            <value>Soy Sauce Chicken Rice, Yam cake, Minced Pork Noodle</value>
-          </Data>
-          <Data name="Remark">
-            <value>Best soy sauce chicken rice and very reasonable price - look for queue. Note**: Chinatown Market is in a complex on the 2nd level, not the one on the street catered for the tourists.</value>
-          </Data>
-          <Data name="gx_media_links">
-            <value>http://www.nea.gov.sg/images/default-source/HUP-commemorative-/chinatown-market.jpg</value>
-          </Data>
-        </ExtendedData>
 	<Point>
         <altitudeMode>clampToGround</altitudeMode>
         <coordinates> 103.8431776162956,1.282235148265126,0</coordinates>
@@ -87,20 +59,6 @@
         <address>20, Kensington Park Road, Singapore 557269</address>
         <description><![CDATA[<img src="http://www.nea.gov.sg/images/default-source/HUP-commemorative-/chomp-chomp-food-centre460929D74D63.jpg" height="200" width="auto" /><br><br>Name: Chomp Chomp Food Centre<br>What is Good/Must Try: BBQ Stingray, Fried Carrot Cake, BBQ Chicken Wings<br>Remark: Some say serve the best BBQ sambal stingray, pricing here slightly on a high side]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="Name">
-            <value>Chomp Chomp Food Centre</value>
-          </Data>
-          <Data name="What is Good/Must Try">
-            <value>BBQ Stingray, Fried Carrot Cake, BBQ Chicken Wings</value>
-          </Data>
-          <Data name="Remark">
-            <value>Some say serve the best BBQ sambal stingray, pricing here slightly on a high side</value>
-          </Data>
-          <Data name="gx_media_links">
-            <value>http://www.nea.gov.sg/images/default-source/HUP-commemorative-/chomp-chomp-food-centre460929D74D63.jpg</value>
-          </Data>
-        </ExtendedData>
 	<Point>
         <altitudeMode>clampToGround</altitudeMode>
         <coordinates> 103.8665361302989,1.364228523158847,0</coordinates>
@@ -111,20 +69,6 @@
         <address>1220 East Coast Parkway, Singapore 440000</address>
         <description><![CDATA[<img src="http://www.nea.gov.sg/images/default-source/HUP-commemorative-/east-coast-lagoon-food-village.jpg" height="200" width="auto" /><br><br>Name: East Coast Lagoon Food Village<br>What is Good/Must Try: Satay, Wanton Noodle, Braised Duck Rice, Satay Bee Hoon, BBQ Chicken Wings<br>Remark: Serve the best Malay satay. Very delicious wanton noodle and BBQ chicken wings. Look for queue]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="Name">
-            <value>East Coast Lagoon Food Village</value>
-          </Data>
-          <Data name="What is Good/Must Try">
-            <value>Satay, Wanton Noodle, Braised Duck Rice, Satay Bee Hoon, BBQ Chicken Wings</value>
-          </Data>
-          <Data name="Remark">
-            <value>Serve the best Malay satay. Very delicious wanton noodle and BBQ chicken wings. Look for queue</value>
-          </Data>
-          <Data name="gx_media_links">
-            <value>http://www.nea.gov.sg/images/default-source/HUP-commemorative-/east-coast-lagoon-food-village.jpg</value>
-          </Data>
-        </ExtendedData>
 <Point>
         <altitudeMode>clampToGround</altitudeMode>
         <coordinates> 103.9350167472495,1.306684318209295,0</coordinates>
@@ -133,7 +77,10 @@
       <Placemark>
         <name>85 Bedok North Street 4, Singapore 460085</name>
         <address>85 Bedok North Street 4, Singapore 460085</address>
-        <description><![CDATA[<img src="http://www.bca.gov.sg/data/imgCont/building/Bedok%20North%20Street%204%20Block%2085%20Market%20&%20Food%20Centre.jpg" height="200" width="auto" /><br><br>Name: Fengshan Market & Food Centre<br>What is Good/Must Try: Fried Oyster Egg, Satay Bee Hoon, BBQ Chicken Wings<br>Remark: Best fried oyster egg, and satay bee hoon]]></description>
+        <description><![CDATA[<img src="http://www.bca.gov.sg/data/imgCont/building/Bedok%20North%20Street%204%20Block%2085%20Market%20&%20Food%20Centre.jpg" height="200" width="auto" />
+<p>Name: Fengshan Market & Food Centre</p>
+<p>What is Good/Must Try: Fried Oyster Egg, Satay Bee Hoon, BBQ Chicken Wings</p>
+<p>Remark: Best fried oyster egg, and satay bee hoon</p>]]></description>
         <styleUrl>#icon-503-DB4436-labelson</styleUrl>
         <ExtendedData>
           <Data name="Name">
